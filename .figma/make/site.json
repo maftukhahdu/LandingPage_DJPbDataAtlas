@@ -1,0 +1,10 @@
+{
+  "description": "Explore DJPb data assets, database metadata, and governance in one connected platform that helps Ministry of Finance teams discover and manage information.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
